@@ -12,7 +12,7 @@ export default function Home() {
           </h1>
 
           <p className="hero-text">
-            Mission Statement: I build modern, user-friendly web applications and
+           <strong>Mission Statement:</strong> I build modern, user-friendly web applications and
             I’m growing my skills in React, JavaScript, and web development.
           </p>
 
